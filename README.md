@@ -1,2 +1,2 @@
-# project-1
-Analytics Portfolio project 1
+# Lucy's Analytics Portfolio
+Project 1
